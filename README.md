@@ -20,3 +20,5 @@ The protocol-env environment has to be set up before the notebooks are used: ple
 
 **Muhammad Junaid, Bo Wang, and Wenjin Li. "Data-augmented machine learning scoring functions for virtual screening of YTHDF1 m6A reader protein." *Computers in Biology and Medicine* 183 (2024): 109268.**
 https://doi.org/10.1016/j.compbiomed.2024.109268
+
+The full data can be downloaded from https://zenodo.org/records/14328077?preview=1&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTczNDMyNTE5NSwiZXhwIjoxNzQzMjkyNzk5fQ.eyJpZCI6ImUxMWMyMTk3LTA3MjMtNDMwMS1hMjg3LThhNzIwY2M1MzNkNiIsImRhdGEiOnt9LCJyYW5kb20iOiI0ZjI4OTYyY2ZlNzA3YmQ4Mjc4MjYxNGE4OGE1MGJmZiJ9.9I8JT5ld_gA01faDCZTjgfaLFp5Jc6LYYeZhwblz0TyE38WmorNwHywH7qgSd3of7UJq1qbRQ0Xu9jTWnsohRQ
